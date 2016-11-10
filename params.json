@@ -1,7 +1,7 @@
 {
   "name": "noahleft's projects",
   "tagline": "",
-  "body": "This is the project list maintained by noahleft. ",
+  "body": "These are side projects to help friends and to survey new technique. \r\n\r\nOnline Judge System is the first side project during my master degree. It's created for TAs to check students' code efficiently. The website uses Apache server on Amazon AWS EC2. Its back-end is Python-cgi and SQLite.\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
