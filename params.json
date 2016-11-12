@@ -1,7 +1,7 @@
 {
   "name": "noahleft's projects",
   "tagline": "",
-  "body": "Hello, I'm Noah. These are side projects to help friends and to survey new technique. \r\n\r\nFirstly, Online Judge System is the first side project during my master degree. It's created for TAs to check students' code efficiently. The website uses Apache server on Amazon AWS EC2. Its back-end is Python-cgi and use SQLite to handle the storage.\r\n\r\nThen, Sale System (web) is born to help my parents who are not familiar to computers. In the past, they used physical calculator, papers and pens to write down each sales. At the end of month, they made handwritten sale invoices to customers. Why not to use computers? Because they're afraid of drawing a well-layouted document on Excel. But thanks to iPhone, they are not fear to web browsing. This side project uses Python simple-HTTP server to provide localhost service. \r\n\r\n",
+  "body": "Hello, I'm Noah. These are side projects to help friends and to survey new technique. \r\n\r\nOnline Judge System is the first side project during my master degree. It's created for TAs to check students' code efficiently. \r\nUsage: Python, SQLite\r\n\r\nSale System (web) is born to help my parents who are not familiar to computers. In the past, they used physical calculator, papers and pens to write down each sales. At the end of month, they made handwritten sale invoices to customers. Why not to use computers? Because they're afraid of drawing a well-layouted document on Excel. But thanks to iPhone, they are not fear to web browsing. This side project uses Python simple-HTTP server to provide localhost service. \r\nUsage: Python, SQLite\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
