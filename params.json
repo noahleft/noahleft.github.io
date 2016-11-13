@@ -1,7 +1,7 @@
 {
   "name": "noahleft's projects",
   "tagline": "",
-  "body": "Hello, I'm Noah. These are side projects to help friends and to survey new technique. \r\n\r\nOnline Judge System is the first side project during my master degree. It's created for TAs to check students' code efficiently. \r\nUsage: Python, SQLite\r\n\r\nSale System (web) is born to help my parents who are not familiar to computers. This side project uses Python simple-HTTP server to provide localhost service. \r\nUsage: Python, SQLite\r\n\r\nNightMarket@Tainan (iOS)\r\nUsage: Swift\r\n\r\nSale System (mac)\r\nUsage: Swift, SQLite",
+  "body": "Hello, I'm Noah. These are side projects to help friends and to survey new technique. \r\n\r\nOnline Judge System (web) is the first side project during my master degree. It's created for TAs to check students' code efficiently. It allows student upload their code and test it.\r\nUsage: Python, SQLite\r\n\r\nSale System (web) is born to help my parents who are not familiar to computers. It provides a way to generate invoices. This side project uses Python simple-HTTP server to provide localhost service. \r\nUsage: Python, SQLite\r\n\r\nNightMarket@Tainan (iOS) is a small project with friends. Given user location, this app shows the distances between user and night-markets in Tainan City. \r\nUsage: Swift\r\n\r\nSale System (mac) is an enhancement of web version. Desktop version provides more feature and control on encryption and system backup.  \r\nUsage: Swift, SQLite",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
